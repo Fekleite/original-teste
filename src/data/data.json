@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "image": "prod02.png",
+      "name": "Rasteira Tira Dedo",
+      "cod": "RT 0568 | 03.07.0653",
+      "price": "R$ 69,00",
+      "sale": true,
+      "price_sale": "R$ 55,20",
+      "installments": "6x de R$ 9,20",
+      "colors": [
+        { "name": "Fucsia", "cod": "#A9095E" },
+        { "name": "Ocean", "cod": "#6B85C1" },
+        { "name": "Marrom", "cod": "#A14830" },
+        { "name": "Black", "cod": "#000000" }
+      ],
+      "sizes": [33, 34, 36, 37, 38, 39, 40, 41, 42],
+      "description": "Rasteira em atanado soft com tira no dedo e fechamento de fivela. Possui sola sempre na cor do cabedal."
+    }
+  ],
+  "shelf": [
+    {
+      "image": "prod03.png",
+      "price": "R$ 204,90",
+      "colors": [
+        { "name": "Fucsia", "cod": "#A9095E" },
+        { "name": "Ocean", "cod": "#6B85C1" },
+        { "name": "Marrom", "cod": "#A14830" },
+        { "name": "Black", "cod": "#000000" }
+      ]
+    },
+    {
+      "image": "prod04.png",
+      "price": "R$ 204,90",
+      "colors": [
+        { "name": "Fucsia", "cod": "#A9095E" },
+        { "name": "Ocean", "cod": "#6B85C1" },
+        { "name": "Marrom", "cod": "#A14830" },
+        { "name": "Black", "cod": "#000000" }
+      ]
+    },
+    {
+      "image": "prod02.png",
+      "price": "R$ 204,90",
+      "colors": [""]
+    },
+    {
+      "image": "prod01.png",
+      "price": "R$ 204,90",
+      "colors": [
+        { "name": "Ocean", "cod": "#6B85C1" },
+        { "name": "Marrom", "cod": "#A14830" },
+        { "name": "Black", "cod": "#000000" }
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "name": "Rasteira Tira Dedo",
+      "image": "prod02.png",
+      "price": "R$ 49,90"
+    },
+    {
+      "name": "Rasteira Tira Dedo",
+      "image": "prod01.png",
+      "price": "R$ 49,90"
+    },
+    {
+      "name": "Bolsa Tressê Rolotê ",
+      "image": "prod03.png",
+      "price": "R$ 49,90"
+    },
+    {
+      "name": "Rasteira Tira Dedo",
+      "image": "prod04.png",
+      "price": "R$ 49,90"
+    },
+    {
+      "name": "Rasteira Tira Dedo",
+      "image": "prod02.png",
+      "price": "R$ 49,90"
+    }
+  ]
+}
